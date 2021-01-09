@@ -8,4 +8,4 @@ For Final project of DLAPP course
  - python detect.py --cfg cfg\yolov3_ori_final.cfg --source [your_vedio_or_image] --names data\final.names --weights [model_get_from_google_drive]
  - Example: python detect.py --cfg cfg\yolov3_ori_final.cfg --source original_video_final --names data\final.names --weights final_model\best.pt
 
-## 3 Get the Result In output Folder
+## 3 Get the Result in output Folder
