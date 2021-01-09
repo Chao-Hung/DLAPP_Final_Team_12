@@ -1,0 +1,7 @@
+Bottle(Recyclable)
+Tissue(Non-Recyclable)
+Paper_Money(Valuables)
+Coin(Valuables)
+Wallet(Valuables)
+Keys(Valuables)
+Can(Recyclable)

@@ -1,0 +1,1 @@
+python detect.py --cfg cfg\yolov3_ori_final.cfg --source original_video_final --names data\final.names --weights final_model\best.pt
